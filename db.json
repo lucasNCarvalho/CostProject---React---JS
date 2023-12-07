@@ -7,7 +7,7 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 366,
+      "cost": 367,
       "services": [
         {
           "name": "11111",
@@ -32,6 +32,12 @@
           "cost": "5",
           "description": "5",
           "id": "e515744a-b4d7-4058-b3a8-c0baf2dc3028"
+        },
+        {
+          "name": "lucas",
+          "cost": "1",
+          "description": "1",
+          "id": "a934a7f3-b164-4e6e-96f9-8729770c96dc"
         }
       ],
       "id": 1
@@ -57,6 +63,39 @@
       "cost": 0,
       "services": [],
       "id": 3
+    },
+    {
+      "name": "t",
+      "budget": "1",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "a",
+      "budget": "1",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "lucas",
+      "budget": "1",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
     }
   ],
   "categories": [

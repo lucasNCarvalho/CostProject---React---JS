@@ -48,15 +48,3 @@
     width: 100%;
 }
 
-@media (max-width: 844px) {
-    .btn {
-        background-color: red;
-        color: #fff;
-        padding: 0.5em 1em;
-        text-decoration: none;
-        transition: 0.5;
-        cursor: pointer;
-        max-height: 40px;
-        border: none;
-    }
-}
