@@ -1,0 +1,86 @@
+{
+  "projects": [
+    {
+      "name": "meu projeto um",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 366,
+      "services": [
+        {
+          "name": "11111",
+          "cost": "1",
+          "description": "111",
+          "id": "7667fd84-426b-4c07-a2b2-f62786b016db"
+        },
+        {
+          "name": "222",
+          "cost": "22",
+          "description": "222",
+          "id": "c3c1075f-fb0f-48d0-bc46-0526cd6c795b"
+        },
+        {
+          "name": "333",
+          "cost": "333",
+          "description": "33",
+          "id": "959ee52c-cca5-4f2e-aa45-658ddb26a0ca"
+        },
+        {
+          "name": "555",
+          "cost": "5",
+          "description": "5",
+          "id": "e515744a-b4d7-4058-b3a8-c0baf2dc3028"
+        },
+        {
+          "name": "555",
+          "cost": "5",
+          "description": "5",
+          "id": "e515744a-b4d7-4058-b3a8-c0baf2dc3028"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "meu projto 2",
+      "budget": "10000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "lucas",
+      "budget": "23123123",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
