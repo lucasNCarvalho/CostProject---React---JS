@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import style from "./searchBar.module.css";
+import styles from "./searchBar.module.css";
 
 const SearchBar = ({handleSubmit, text}) => {
 
@@ -10,7 +10,7 @@ const SearchBar = ({handleSubmit, text}) => {
     }, [inputText]);
     
     return (
-        <div>
+        <div className={styles.container}>
             <input value={inputText} onChange={e => setInputText(e.target.value)} type="search" placeholder={`${text}`}/>
         </div>
     )
